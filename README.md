@@ -78,7 +78,7 @@ The application should not become a go-to for underage alcohol consumption and s
 
 3 Refining the algorithms: As more data is gathered, the algorithms used by the AI assistant need to be refined and improved in order to provide more accurate results.
 
-4. eveloping additional features: The AI assistant could be developed further by adding additional features that would be beneficial to the user. For example, the assistant could provide information about local laws and regulations regarding alcohol consumption, or provide personalized recommendations based on the user’s data input and external data.
+4. Developing additional features: The AI assistant could be developed further by adding additional features that would be beneficial to the user. For example, the assistant could provide information about local laws and regulations regarding alcohol consumption, or provide personalized recommendations based on the user’s data input and external data.
 
 5.Connecting the application with other services: Another way to improve the AI assistant is to connect it with other services, such as a taxi-hailing app or a health monitoring service. This would allow the AI assistant to provide more comprehensive assistance to the user.
 
@@ -89,3 +89,4 @@ The application should not become a go-to for underage alcohol consumption and s
 8. Improving the user interface: The user interface of the AI assistant should be designed in such a way that it is easy to use and understand. This would allow the user to quickly access the information and features provided by the AI assistant.
 
 ## Acknowledgments
+(Here, acknowledgments would be listed)
